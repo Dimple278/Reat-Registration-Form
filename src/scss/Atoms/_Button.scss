@@ -1,0 +1,14 @@
+.btn {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  color: $button-text-color;
+  background-color: $button-background;
+  border: none;
+  border-radius: $button-border-radius;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  &:hover {
+    background-color: darken($button-background, 10%);
+  }
+}

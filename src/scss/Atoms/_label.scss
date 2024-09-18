@@ -1,0 +1,11 @@
+.label {
+  font-size: $font-size;
+  color: $primary-text-color;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+::placeholder {
+  font-size: 1rem;
+}

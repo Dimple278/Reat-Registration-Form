@@ -1,0 +1,15 @@
+.labeled-input {
+  @include flex(column, center, null);
+  margin-bottom: 1rem;
+}
+
+.labeled-input--radio {
+  @include flex(row, center, center);
+  gap: 0.5rem;
+}
+
+.label--gender {
+  .label {
+    margin-bottom: 0;
+  }
+}
