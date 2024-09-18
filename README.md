@@ -17,3 +17,6 @@ npm run dev
 
 Run tests:
 npm test
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/d4ad532c-e9f7-4aa3-87b8-b4a7e46f4b08)
